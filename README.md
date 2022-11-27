@@ -1,2 +1,2 @@
-# sirious-bot
-Discord bot for the Sirious discord
+# Sirious-bot
+Unfinished Discord bot for the Sirious discord
